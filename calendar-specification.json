@@ -9,7 +9,8 @@
     "https://forum.wilap.de/c/machbar/l/calendar.ics?time_zone=Europe/Berlin",
     "https://forum.wilap.de/c/kitchen/l/calendar.ics?time_zone=Europe/Berlin",
     "https://forum.wilap.de/c/repaircafe/l/calendar.ics?time_zone=Europe/Berlin",
-    "https://forum.wilap.de/c/cccp/l/calendar.ics?time_zone=Europe/Berlin"
+    "https://forum.wilap.de/c/cccp/l/calendar.ics?time_zone=Europe/Berlin",
+    "https://my-mailbox-calendar.herokuapp.com/machbar.ics"
   ],
   "language": "de",
   "skin": "dhtmlxscheduler.css"
