@@ -10,7 +10,8 @@
     "https://forum.wilap.de/c/kitchen/l/calendar.ics?category_slug_path_with_id=kitchen",
     "https://forum.wilap.de/c/repaircafe/l/calendar.ics?category_slug_path_with_id=repaircafe",
     "https://forum.wilap.de/c/cccp/l/calendar.ics?category_slug_path_with_id=cccp",
-    "https://my-mailbox-calendar.herokuapp.com/machbar.ics"
+    "https://my-mailbox-calendar.herokuapp.com/machbar.ics",
+    "https://chaostreffpotsdam.ocloud.de/remote.php/dav/public-calendars/sxp6HgTxbmao69RH?export"
   ],
   "language": "de",
   "skin": "dhtmlxscheduler.css"
